@@ -1,0 +1,34 @@
+*{
+ background-color: black;
+ font-size: 30px;
+ margin: 5px;
+ color: white;
+}
+
+#dropdown{
+ color: white;
+ width: 200px;
+ padding: 10px;
+ border: 2px,solid,black;
+}
+.bt{
+ color: black;
+ background-color: white;
+ width: 200px;
+ padding: 10px;
+
+}
+ 
+.userinput{
+   display: inline-block;
+   
+}
+.fn{
+   border:2000px,solid,black;
+  }
+
+
+
+#bob{
+   margin: 100px;
+}
